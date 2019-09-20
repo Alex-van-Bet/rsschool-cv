@@ -12,6 +12,12 @@
     6. ### Experience: 
    Created sites on courses [Web developer](https://www.udemy.com/webdeveloper/). Site example *[uber]*(https://alex-van-bet.github.io/)
    Now I'm working on projects from the course [Full JavaScript Course - From Zero to Result] (https://www.udemy.com/javascript_full/)
+4. ### Skills:
+   * HTML 5
+   * CSS
+   * JS
+   * Git
+   * Adobe Photoshop
 7. ### Education:
    * Higher, Brest State University named after A.S. Pushkin, specialty mathematics and computer science
    * Magistracy, Brest State University named after A.S. Pushkin, specialty mathematics
