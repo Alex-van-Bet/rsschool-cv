@@ -18,6 +18,28 @@
    * JS
    * Git
    * Adobe Photoshop
+5. ### Code examples:
+   ```
+	chooseInCome: function () {
+		for (let i = 0; i < 1; i++ ) {
+			let items = prompt('What will bring additional income? (list with a comma)', '');
+			if ( (typeof(items)) === 'string' && (typeof(items)) != null && (items != '')) {
+				appData.income = items.split(', ');
+				appData.income.push( prompt('Maybe something else', '') );
+				appData.income.sort();
+			}
+			else {
+				i--;
+			}
+		}
+		let str = '';
+		appData.income.forEach(function (item, i, incomes) {
+		   alert( (i +1) + ': ' + item );
+		   str = str + ((i +1) + ': ' + item + ' ' );
+		})
+		alert(str);
+	},
+   ```
 7. ### Education:
    * Higher, Brest State University named after A.S. Pushkin, specialty mathematics and computer science
    * Magistracy, Brest State University named after A.S. Pushkin, specialty mathematics
