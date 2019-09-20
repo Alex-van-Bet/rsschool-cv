@@ -6,14 +6,12 @@
     - [Facebook](https://www.facebook.com/profile.php?id=100001217534271)
     - [GitHub](https://github.com/Alex-van-Bet)
     - [LinkedIn](https://www.linkedin.com/in/alexander-bet-54372014a)
-    - [Skype](alex_van_bet1991)
-    - [Cell](tel:375333991131)
  
 3. ### About me
-    I want to develop in the direction of information technology. I like to learn new technologies. I always try to finish what I started to the end.
-    6. ### Experience: 
-   Created sites on courses [Web developer](https://www.udemy.com/webdeveloper/). Site example *[uber]*(https://alex-van-bet.github.io/)
-   Now I'm working on projects from the course [Full JavaScript Course - From Zero to Result] (https://www.udemy.com/javascript_full/)
+    I want to develop in the direction of information technology. 
+    I like to learn new technologies. 
+    I always try to finish what I started to the end.
+
 4. ### Skills:
    * HTML 5
    * CSS
@@ -43,11 +41,11 @@
 	},
    ```
 6. ### Experience: 
-   Created sites on courses [Web developer](https://www.udemy.com/webdeveloper/). Site example *[uber]*(https://alex-van-bet.github.io/)
-   Now I'm working on projects from the course [Full JavaScript Course - From Zero to Result] (https://www.udemy.com/javascript_full/)
+   Created sites on courses [Web developer](https://www.udemy.com/webdeveloper). Site example *[uber]*(https://alex-van-bet.github.io)
+   Now I'm working on projects from the course [Full JavaScript Course - From Zero to Result] (https://www.udemy.com/javascript_full)
 7. ### Education:
    * Higher, Brest State University named after A.S. Pushkin, specialty mathematics and computer science
    * Magistracy, Brest State University named after A.S. Pushkin, specialty mathematics
-   * Graduated from the course on the platform udymy and received a [certificate](https://www.udemy.com/certificate/UC-61V36XM1/)
+   * Graduated from the course on the platform udymy and received a [certificate](https://www.udemy.com/certificate/UC-61V36XM1)
 8. ### English level: 
    approximate A2.
