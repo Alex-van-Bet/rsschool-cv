@@ -1,5 +1,5 @@
 # Resume
-   ## **Aleksandr Bet**
+*  ### Aleksandr Bet
 *  ### Contacts:
    - [Telegram](https://t.me/Alex_van_Bet) 
    - [Facebook](https://www.facebook.com/profile.php?id=100001217534271)
@@ -15,7 +15,7 @@
      * CSS
      * JS
      * Git
-     * Adobe Photoshop ### Code examples:
+     * Adobe Photoshop Code examples:
    
 *  ### Code examples:
 ```
