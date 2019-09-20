@@ -2,15 +2,15 @@
 
 ## **Aleksandr Bet**
 ### Contacts:
-    - [Telegram](https://t.me/Alex_van_Bet) 
-    - [Facebook](https://www.facebook.com/profile.php?id=100001217534271)
-    - [GitHub](https://github.com/Alex-van-Bet)
-    - [LinkedIn](https://www.linkedin.com/in/alexander-bet-54372014a)
+   - [Telegram](https://t.me/Alex_van_Bet) 
+   - [Facebook](https://www.facebook.com/profile.php?id=100001217534271)
+   - [GitHub](https://github.com/Alex-van-Bet)
+   - [LinkedIn](https://www.linkedin.com/in/alexander-bet-54372014a)
  
 ### About me
-    I want to develop in the direction of information technology. 
-    I like to learn new technologies. 
-    I always try to finish what I started to the end.
+   I want to develop in the direction of information technology. 
+   I like to learn new technologies. 
+   I always try to finish what I started to the end.
 
 ### Skills:
    * HTML 5
