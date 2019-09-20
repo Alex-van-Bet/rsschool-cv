@@ -5,8 +5,10 @@
     - [Telegram](https://t.me/Alex_van_Bet) 
     - [Facebook](https://www.facebook.com/profile.php?id=100001217534271)
     - [GitHub](https://github.com/Alex-van-Bet)
-    - [Skype](alex_van_bet1991)
     - [LinkedIn](https://www.linkedin.com/in/alexander-bet-54372014a)
+    - [Skype](alex_van_bet1991)
+    - [Cell](tel:375333991131)
+ 
 3. ### About me
     I want to develop in the direction of information technology. I like to learn new technologies. I always try to finish what I started to the end.
     6. ### Experience: 
