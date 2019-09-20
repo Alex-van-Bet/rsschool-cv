@@ -15,7 +15,7 @@
      * CSS
      * JS
      * Git
-     * Adobe Photoshop Code examples:
+     * Adobe Photoshop
    
 *  ### Code examples:
 ```
