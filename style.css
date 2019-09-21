@@ -13,19 +13,7 @@ body {
   padding: 2em 2.5em;
 }
 
-.anchor {
-  float: left;
-  margin-left: -0.85em;
-  font-size: 0.85em;
-  color: rgb(222, 165, 39);
-  opacity: 0;
-}
-
-.anchor:hover {
-  opacity: 1;
-}
-
-.clearfix:after {
+.clear:after {
   content: "";
   display: table;
   clear: both;
@@ -45,16 +33,16 @@ body {
   float: right;
   margin-right: 5em;
   padding: 0.5em;
-  border: 1px solid rgba(222, 165, 39, 0.3);
-  border-radius: 2.5em;
+  border: 1px solid rgba(212, 162, 45, 0.6);
+  border-radius: 2em;
 }
 
-.cv-links {
+.cv-link {
   text-decoration: none;
   color: #dea527;
 }
 
-.cv-links:hover {
+.cv-link:hover {
   text-decoration: underline;
 }
 
