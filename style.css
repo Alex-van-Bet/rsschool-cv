@@ -1,0 +1,72 @@
+body {
+  font-family: "Georgia", "Times New Roman", serif;
+  font-size: 16px;
+  line-height: 1.5em;
+  text-align: justify;
+  color: rgb(6, 7, 9);
+}
+
+.page-wrapper {
+  box-sizing: border-box;
+  max-width: 1024px;
+  margin: 0 auto;
+  padding: 2em 2.5em;
+}
+
+.anchor {
+  float: left;
+  margin-left: -0.85em;
+  font-size: 0.85em;
+  color: rgb(222, 165, 39);
+  opacity: 0;
+}
+
+.anchor:hover {
+  opacity: 1;
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.cv-section {
+  padding-bottom: 0.5em;
+  border-bottom: 1px solid rgba(222, 165, 39, 0.3);
+}
+
+.contacts-container {
+  float: left;
+  line-height: 1.5em;
+}
+
+.photo {
+  float: right;
+  margin-right: 5em;
+  padding: 0.5em;
+  border: 1px solid rgba(222, 165, 39, 0.3);
+  border-radius: 2.5em;
+}
+
+.cv-links {
+  text-decoration: none;
+  color: #dea527;
+}
+
+.cv-links:hover {
+  text-decoration: underline;
+}
+
+.item-name {
+  font-weight: bold;
+}
+
+.item-period {
+  font-style: italic;
+}
+
+footer {
+  text-align: center;
+  padding-top: 1em;
+}
